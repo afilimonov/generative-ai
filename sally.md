@@ -4,6 +4,7 @@ Isaac Asimov’s short story "Sally" has always been one of my personal favorite
 
 #### The Story of "Sally"
 
+> Sally was a 2045 convertible with a Hennis-Carleton positronic motor and an Armat chassis. She had the cleanest, finest lines I've ever seen on any model, bar none.
 
 In "Sally," we find ourselves on a farm where autonomous cars with positronic brains live out their retirement. Jake, their caretaker, runs this unique retreat, funded by former owners who’ve developed strong emotional bonds with their cars. These cars aren’t just machines anymore—they’re companions, each with their own quirks and personalities. Things get tense when Mr. Gellhorn shows up, eyeing the cars for parts. But Sally, a green car with a mind of her own, and her friends aren’t having any of it. They refuse to give Gellhorn a ride, not just out of ethical concern but because Sally has grown to dislike being driven and particularly dislikes Gellhorn.
 
