@@ -1,6 +1,6 @@
 ### Lessons from Asimov’s "Sally" for Modern Self-Driving Cars
 
-Isaac Asimov’s short story "Sally" has always been one of my personal favorites, and it’s no wonder. It’s not just about futuristic autonomous cars; it’s a deep dive into the ethical and philosophical dilemmas of advanced AI. Even though it was written in 1953, "Sally" offers insights that hit home with today’s rapid advancements in self-driving technology. Let’s explore what "Sally" teaches us about the challenges and implications of modern AI, especially self-driving cars.
+Isaac Asimov’s short story ["Sally"](https://archive.org/details/Fantastic_v02n03_1953-05-06/page/n35/mode/1up?view=theater) has always been one of my personal favorites, and it’s no wonder. It’s not just about futuristic autonomous cars; it’s a deep dive into the ethical and philosophical dilemmas of advanced AI. Even though it was written in 1953, "Sally" offers insights that hit home with today’s rapid advancements in self-driving technology. Let’s explore what "Sally" teaches us about the challenges and implications of modern AI, especially self-driving cars.
 
 #### The Story of "Sally"
 
