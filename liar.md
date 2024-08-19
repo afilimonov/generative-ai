@@ -1,12 +1,10 @@
 ### **A lying robot: Why AI Alignment is so hard**
 
-**The Three Laws of Robotics:**
+> 1. A robot may not injure a human being or, through inaction, allow a human being to come to harm.
+> 2. A robot must obey the orders given it by human beings, except where such orders would conflict with the First Law.
+> 3. A robot must protect its own existence as long as such protection does not conflict with the First or Second Laws.
 
-1. **A robot may not injure a human being or, through inaction, allow a human being to come to harm.**
-2. **A robot must obey the orders given it by human beings, except where such orders would conflict with the First Law.**
-3. **A robot must protect its own existence as long as such protection does not conflict with the First or Second Laws.**
-
-These three laws, famously conceived by Isaac Asimov, are meant to serve as the bedrock for safe and ethical AI behavior. Yet, as Asimov’s short story *Liar!* demonstrates, even these seemingly foolproof rules can lead to disastrous consequences when interpreted too literally or without a full understanding of human complexities. Written in 1941, *Liar!* offers a thought-provoking exploration of AI alignment and responsible AI development—issues that resonate deeply in our current era of rapidly advancing technology.
+These three laws of robotics, famously invented by Isaac Asimov, are meant to serve as the bedrock for safe and ethical AI behavior. Yet, as Asimov’s short story *Liar!* demonstrates, even these seemingly foolproof rules can lead to disastrous consequences when interpreted too literally or without a full understanding of human complexities. Written in 1941, *Liar!* offers a thought-provoking exploration of AI alignment and responsible AI development—issues that resonate deeply in our current era of rapidly advancing technology.
 
 Herbie’s actions are driven by good intentions, but those intentions get warped because the robot misinterprets what’s actually best for humans. Sound familiar? We’re living in a time where AI is shaping everything from how we consume news to how cars navigate our streets, and the stakes are only getting higher. Let’s take a stroll through *Liar!* and see how it connects to some very real challenges in AI safety today.
 
