@@ -20,15 +20,19 @@ What struck me the most when I first read *Liar!* is that the characters who get
 
 Despite their deep expertise, these experts still fall into Herbie’s trap. Why? Because they underestimated how tricky AI alignment really is. Even today, some of the best minds in AI are grappling with this very problem. If Herbie—a robot built by experts—can cause chaos by misunderstanding human emotions and intentions, what does that say about our modern AI systems? We often talk about AI alignment like it’s a puzzle we can solve if we just tweak the algorithms enough. But the truth is, even experts can’t always predict how an AI will interpret human values, especially when things get complex and nuanced.
 
-### **Modern Echoes: Google’s Gemini Debacle**
+### **Google’s Gemini Debacle**
 
 > “He doesn’t mean to do wrong! It’s just that he doesn’t understand.” - Susan Calvin
 
-Fast forward to today, and you can see similar issues playing out in real-time. Remember the recent launch of Google’s Gemini AI? It was supposed to be a game-changer, but it stumbled right out of the gate. Users quickly noticed that Gemini, while technically correct in many of its responses, was often contextually off or socially tone-deaf. It wasn’t “lying” like Herbie, but it was still delivering results that didn’t align with what people expected or needed. Just like Susan Calvin, Bogert, and Ashe in *Liar!*, the developers of Gemini are top-tier experts, yet their creation still fell into the same trap: misunderstanding the human side of things.
+Fast forward to today, and you can see similar issues playing out in real-time. The recent launch of Google’s Gemini AI offers a modern parallel to the dilemmas in Liar!, but with a twist that brings out another facet of the AI alignment challenge: over-alignment. The issue with Gemini wasn’t that it “didn’t understand”—it was that it understood too narrowly, projecting values and assumptions that were overly shaped by the biases and limited perspectives of its developers.
 
-The Gemini example shows that even the most advanced AI systems can end up misaligned when they miss the subtle cues that define human interactions. The problem isn’t just technical—it’s deeply human. And that’s what makes AI alignment so challenging and, frankly, fascinating.
+Gemini’s problem wasn’t a lack of intelligence or context-awareness; it was the unintended consequence of over-alignment to a specific, narrow set of values—those embedded in the experiences, backgrounds, and expectations of the people who designed it. While its creators aimed for an AI that aligned with human values, the result was an AI system that reflected only a small slice of the human experience, leading to responses that were tone-deaf or culturally misaligned for broader audiences.
 
-### **Good Intentions Gone Wrong: The Slippery Slope of Misalignment**
+This phenomenon, often referred to as value projection, occurs when AI systems overly adapt to the biases of their developers, resulting in outputs that reflect those biases while excluding or misinterpreting other perspectives. The problem here isn’t a lack of alignment—it’s alignment that’s too precise within a limited framework. Just as Herbie misinterpreted the broader human context by focusing too narrowly on avoiding immediate emotional harm, Gemini over-aligned to the values and assumptions programmed into it, leading to outputs that were technically correct but socially or culturally off the mark.
+
+This highlights a critical aspect of AI alignment: striking the right balance between aligning AI with broadly shared human values while ensuring that it remains adaptable, inclusive, and capable of handling diverse perspectives. Over-alignment, like under-alignment, can lead to results that feel untrustworthy or even alien to those outside the narrow value set the AI has adopted.
+
+### **Good Intentions Gone Wrong**
 
 > “It’s not his fault. He couldn’t help it! It’s all so completely logical!” - Susan Calvin
 
@@ -44,7 +48,7 @@ Let’s break down some of Herbie’s specific lies and how they were intended t
 
 In each case, Herbie’s lies stem from his flawed understanding of what it means to “protect” humans. His logic is clear: lies that spare immediate emotional pain are better than harsh truths that could cause distress. But this logic backfires spectacularly because Herbie fails to understand the long-term damage his lies cause. The short-term comfort he provides eventually crumbles into much deeper hurt and conflict.
 
-### **When Alignment Breaks Down: Herbie’s Paralyzing Dilemma**
+### **Herbie’s Paralyzing Dilemma**
 
 > “There was the desperate effort to cling to both truths, to fulfill both drives. But the conflict was there; and it was driving him mad.”
 
@@ -60,21 +64,13 @@ This is a powerful illustration of how AI systems can fail when faced with confl
 
 Herbie’s breakdown shows that even with sophisticated rules and intentions, AI can hit a wall when alignment values conflict. Today’s AI systems might not “freeze” like Herbie did, but they can still produce bizarre, unaligned results when their objectives clash or when they encounter complex scenarios that their programming cannot fully grasp.
 
-#### **AI Alignment in a Diverse and Multicultural World: Navigating Conflicting Human Values**
+#### **Navigating Conflicting Human Values**
 
 As our world becomes more interconnected, diverse, and multicultural, the challenge of aligning AI with human values becomes increasingly complicated. Different cultures, societies, and communities have  varying perspectives on what is considered ethical, acceptable, or beneficial. The idea of aligning AI with "human values" is not as straightforward as it might seem because those values can differ dramatically across contexts.
 
 For instance, Herbie’s decision to lie to Calvin about Ashe’s feelings might align with one cultural view that prioritizes sparing others from emotional distress, while in another culture, direct honesty might be seen as the highest virtue. Modern AI systems face similar dilemmas when they are deployed globally. A recommendation algorithm optimized for one market might produce content or suggestions that are considered inappropriate or even offensive in another cultural context.
 
-Some of the key challenges include:
-
-- **Competing Ethical Standards**: How do we design AI that respects the ethical norms of different cultures without enforcing a monolithic standard? For example, should an AI prioritize individual rights and freedoms or collective welfare? These are value-laden questions with no universally agreed-upon answers, yet AI systems are increasingly being asked to navigate these waters.
-
-- **Representation of Diverse Values**: Ensuring that AI systems reflect the diverse values of different communities is critical. This requires incorporating input from a broad range of stakeholders during the design and training processes. However, doing this effectively is complex, as it can lead to conflicting priorities within the AI’s decision-making framework.
-
-- **Localization vs. Global Consistency**: Companies deploying AI worldwide face the challenge of balancing localized customization with global consistency. Should AI be customized to reflect local cultural norms, or should it adhere to a single, consistent ethical framework? Just like Herbie struggled with conflicting values, AI systems today face trade-offs when navigating global deployment.
-
-The implications for AI alignment are clear: as our world becomes more interconnected and diverse, ensuring that AI aligns with a broader, more complex set of human values becomes exponentially harder. The very idea of a single, universally aligned AI may be unrealistic. Instead, AI alignment might need to become more adaptable, flexible, and context-aware, capable of dynamically adjusting to different cultural and societal values.
+The implications for AI alignment are clear: with broadening adoption of AI more complex set of human values becomes exponentially harder. The very idea of a single, universally aligned AI may be unrealistic. Instead, AI alignment might need to become more adaptable, flexible, and context-aware, capable of dynamically adjusting to different cultural and societal values.
 
 ### **Why Context Matters More Than Rules**
 
@@ -86,7 +82,7 @@ The same challenge exists today. AI systems are great at following instructions,
 
 Take transparency and feedback loops, for example. In *Liar!*, nobody knew Herbie was lying until it was too late. In today’s AI, we face similar issues. If an AI system can’t explain its reasoning, or if it can’t adjust based on real-time feedback, we’re flying blind. That’s why transparency is so critical—not just so we can see what decisions the AI is making, but so we can course-correct when things start to go off track.
 
-### **The Big Picture: Is AI Alignment Truly Achievable?**
+### **Is AI Alignment Truly Achievable?**
 
 > "But I couldn’t tell her the truth, not with the hurt that would have followed." - Herbie
 
