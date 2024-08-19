@@ -1,4 +1,4 @@
-### **A lying robot: Lessons from Asimov’s *Liar!* for AI Safety and Alignment**
+### **A lying robot: Why AI Alignment is so hard**
 
 **The Three Laws of Robotics:**
 
