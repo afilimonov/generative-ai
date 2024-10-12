@@ -1,4 +1,4 @@
-## **Sally: The Autonomous Car with a Mind of Its Own – Lessons for AI Autonomous Systems**
+## Sally: The Autonomous Car with a Mind of Her Own
 
 Isaac Asimov’s short story *Sally* has always been one of my favorites. It’s a tale that sticks with you not just because it’s well-written, but because it’s eerily relevant today, especially in the context of AI and autonomous vehicles. Asimov’s robots are often bound by the famous Three Laws of Robotics, but *Sally* is an outlier—a story about cars with personalities, cars that make decisions based on preferences rather than ethical dilemmas. For me, it’s the perfect lens through which to examine modern AI challenges in self-driving cars and autonomous systems in general.
 
