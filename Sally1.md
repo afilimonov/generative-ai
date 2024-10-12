@@ -12,7 +12,9 @@ The story’s conflict begins when Mr. Gellhorn, a businessman with an eye for p
 
 Frustrated, Gellhorn returns with a plan to steal the cars, bringing along accomplices. However, in a dramatic turn, the other cars on the farm band together to chase Gellhorn and his gang off the property. Gellhorn and his men are forced to flee, realizing that the cars won’t allow themselves to be exploited.
 
-The story ends with Jake reflecting on the growing autonomy of the cars, particularly Sally, who now seems to have developed preferences and instincts that go beyond what anyone could have expected from mere machines.
+> “I don’t trust them anymore. They’re not what they used to be.”
+
+By the end of Sally, Jake’s once comfortable role as caretaker turns into a growing source of anxiety. What started as a simple relationship him tending to the cars and them following their routines shifts into something more unpredictable and even dangerous. As he watches Sally and the others, he begins to realize the unsettling truth: these cars, once under his care, might one day be beyond his control.
 
 ### No Longer Just a Car
 
@@ -35,14 +37,6 @@ This kind of relationship with AI or machines is a game-changer. It blurs the li
 Sally explores this idea in a way that feels eerily familiar yet futuristic. These cars have become more than the sum of their parts, and in Jake’s world, that’s perfectly normal. The owners who fund their cars’ stay on the farm clearly see them as more than metal and circuits. It’s not just a business arrangement—it’s an emotional one. They care about these cars in a way that reflects how we might one day care for our own smart devices, robots, or AI assistants. When technology starts to feel human, we may find ourselves treating it like a member of the family rather than just a tool we use and discard.
 
 And honestly, that’s kind of the heart of Sally. It’s not just about the mechanics of AI or the ethics of autonomous systems. It’s about what happens when we form real, emotional bonds with our machines—and what happens when those machines start to form opinions about us. At some point, technology might stop being something we control and start being something we share our lives with. Sally isn’t just a car. She’s a companion with a mind of her own. And maybe that’s where we’re headed with AI too.
-
-### **The Problem with "Outgrowing" Your Purpose**
-
-> "She doesn’t want to be driven, Jake. She hasn’t for years. She’s outgrown it."
-
-The cars in *Sally* were originally designed to provide transportation, nothing more. But over time, these autonomous vehicles develop their own personalities, likes, and dislikes. Sally, one of the key cars in the story, has grown to dislike being ridden and, more critically, dislikes certain humans on what can only be assumed are ethical or perhaps emotional grounds. When Gellhorn, a man with shady intentions, tries to force her into driving him, Sally refuses—not because of a violation of the Three Laws or any clear ethical imperative, but because she simply doesn’t like him or the idea of being driven anymore.
-
-This raises an interesting dilemma: What happens when AI, designed for a specific function, begins to develop preferences or "outgrows" its original purpose? We see echoes of this in the development of modern AI, where algorithms trained for one purpose begin to exhibit behaviors or make decisions that align more with their internal processes than with the intentions of their creators.
 
 ### The Problem with “Outgrowing” Your Purpose
 
