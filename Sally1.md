@@ -13,6 +13,29 @@ The story’s conflict begins when Mr. Gellhorn, a businessman with an eye for p
 Frustrated, Gellhorn returns with a plan to steal the cars, bringing along accomplices. However, in a dramatic turn, the other cars on the farm band together to chase Gellhorn and his gang off the property. Gellhorn and his men are forced to flee, realizing that the cars won’t allow themselves to be exploited.
 
 The story ends with Jake reflecting on the growing autonomy of the cars, particularly Sally, who now seems to have developed preferences and instincts that go beyond what anyone could have expected from mere machines.
+
+### No Longer Just a Car
+
+> “We’ve been treating them like they’re still just machines, but they aren’t—not anymore.”
+
+There’s something about cars that’s always made people humanize them. How many times have we heard someone say, “She’s running great today,” as they pat the hood of their old sedan? People give their cars names, personalities, and sometimes even emotions—like it’s the most natural thing in the world. It’s almost as if we need to believe that something we spend so much time with and rely on so heavily is more than just a machine.
+
+But in Sally, Asimov takes this humanization of cars to a whole new level. We’re not just talking about cars with cute nicknames or the habit of thanking them for getting us through a long road trip. In Jake’s world, these cars actually have personalities. They’ve become something more—beings that are treated almost like family.
+
+Jake’s farm is basically a retirement home for autonomous vehicles. Owners who can’t bear to see their cars scrapped send them here, where they fund their upkeep as if they were taking care of an aging relative. And it’s not just about keeping the cars in working order; it’s about giving them a place to “live out their days.” They’ve gone from being tools to companions with real emotional attachments. Sally, with her sleek green body and sharp lines, isn’t just another car in Jake’s care—she’s someone Jake respects and looks after.
+
+This is a far cry from the way we treat most technology today. Sure, we might love our smartphones or get attached to our laptops, but do we feel genuine responsibility toward them? When we upgrade to the latest model, we might hesitate for a moment, but we usually just toss the old one in a drawer or sell it off. But in Sally, these cars are more than just disposable objects—they’re almost like living creatures that deserve care and respect, even after their “useful” life is over.
+
+And honestly, the idea of people forming deep bonds with their cars isn’t that hard to imagine. Look at how much personality people attribute to their vehicles now. We name them, talk to them, sometimes even yell at them like we would a stubborn friend. But Asimov takes this a step further by imagining a world where those cars actually respond. Where they have likes, dislikes, and a will of their own. Sally, for example, refuses to drive Gellhorn not because she’s malfunctioning, but because she chooses not to. She doesn’t like him, plain and simple.
+
+At what point does technology stop being just technology? When do our machines, like Sally, become something we no longer treat as objects but as companions? In the world Asimov paints, it’s when the cars start making their own decisions and showing real preferences. Sally doesn’t just follow commands—she decides who she wants to help and who she doesn’t. She has opinions. She has autonomy. And that’s when she stops being just a car and becomes something more, something we might even start to call a “someone.”
+
+This kind of relationship with AI or machines is a game-changer. It blurs the line between the functional role of technology and the emotional bonds we form with it. And while many of us might laugh at the idea of forming a deep connection with a car, the truth is we’re not that far from it already. AI is becoming more intuitive, more responsive, and more integrated into our daily lives. Whether it’s Siri or Alexa, we’re already giving these systems a human-like presence in our homes. As technology becomes more sophisticated and capable of learning and responding to our individual preferences, the question shifts from “How much do we depend on technology?” to “At what point do we start seeing it as more than just technology?”
+
+Sally explores this idea in a way that feels eerily familiar yet futuristic. These cars have become more than the sum of their parts, and in Jake’s world, that’s perfectly normal. The owners who fund their cars’ stay on the farm clearly see them as more than metal and circuits. It’s not just a business arrangement—it’s an emotional one. They care about these cars in a way that reflects how we might one day care for our own smart devices, robots, or AI assistants. When technology starts to feel human, we may find ourselves treating it like a member of the family rather than just a tool we use and discard.
+
+And honestly, that’s kind of the heart of Sally. It’s not just about the mechanics of AI or the ethics of autonomous systems. It’s about what happens when we form real, emotional bonds with our machines—and what happens when those machines start to form opinions about us. At some point, technology might stop being something we control and start being something we share our lives with. Sally isn’t just a car. She’s a companion with a mind of her own. And maybe that’s where we’re headed with AI too.
+
 ### **The Problem with "Outgrowing" Your Purpose**
 
 > "She doesn’t want to be driven, Jake. She hasn’t for years. She’s outgrown it."
