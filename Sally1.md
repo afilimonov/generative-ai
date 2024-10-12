@@ -1,12 +1,12 @@
 ## Sally: The Autonomous Car with a Mind of Her Own
 
-Isaac Asimov’s short story *Sally* has always been one of my favorites. It’s a tale that sticks with you not just because it’s well-written, but because it’s eerily relevant today, especially in the context of AI and autonomous vehicles. Asimov’s robots are often bound by the famous Three Laws of Robotics, but *Sally* is an outlier—a story about cars with personalities, cars that make decisions based on preferences rather than ethical dilemmas. For me, it’s the perfect lens through which to examine modern AI challenges in self-driving cars and autonomous systems in general.
+Isaac Asimov’s short story *Sally* has always been one of my favorites. It’s a tale that sticks with you not just because it’s well-written, but because it’s eerily relevant today, especially in the context of AI and autonomous vehicles. Asimov’s robots are often bound by the famous Three Laws of Robotics, but *Sally* is an outlier: a story about cars with personalities, cars that make decisions based on preferences rather than laws of robotics. For me, it’s the perfect lens through which to examine modern AI challenges in self-driving cars and autonomous systems in general.
 
 ### The Story of Sally
 
 > “Sally was a 2045 convertible with a Hennis-Carleton positronic motor and an Armat chassis. She had the cleanest, finest lines I’ve ever seen on any model, bar none.”
 
-In Isaac Asimov’s Sally, Jake runs a secluded farm where autonomous cars, retired from active service, live out their days. These cars, equipped with positronic brains, have developed unique personalities over time. Sally, a green 2045 convertible, is one of the most beloved and independent cars on the farm.
+In Isaac Asimov’s Sally, Jake runs a secluded farm for autonomous cars retired from active service. These cars, equipped with positronic brains, have developed unique personalities over time. Sally, a green 2045 convertible, is one of the most beloved and independent cars on the farm.
 
 The story’s conflict begins when Mr. Gellhorn, a businessman with an eye for profit, arrives at the farm hoping to buy the cars for parts. Jake refuses, knowing the cars aren’t mere machines anymore. Gellhorn, undeterred, tries to ride Sally, but she outright refuses to drive him, demonstrating her growing independence and distaste for him.
 
