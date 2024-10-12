@@ -62,17 +62,27 @@ The scary part about Sally is that she wasn’t programmed to make ethical decis
 
 When AI starts to outgrow its purpose, we’re no longer dealing with just machines. We’re dealing with something that’s moving closer to autonomy—maybe not in the human sense, but in a way that could be just as unpredictable and, frankly, unnerving. Sally shows us that when an AI stops being a tool and starts being something that can say “no,” we’ve entered a whole new territory. And that’s where the real questions about control, autonomy, and the future of AI begin.
 
-### **The Big Question: Who Defines the Ethical Principles?**
+### The Big Question: Who Defines the Ethical Principles?
 
-> "Sally and the others have been watching us for years, learning from us. But who taught them what’s right and what’s wrong?"
+> “Sally and the others have been watching us for years, learning from us. But who taught them what’s right and what’s wrong?”
 
-Sally’s ethical principles seem to be a combination of observing Jake, mimicking human behavior, and perhaps an instinct for self-preservation. But it’s unclear who or what ultimately defines these principles. This question is central to the debate around AI ethics: Where do the moral guidelines for AI come from, and how are they prioritized? Is it human designers? Is it learned behavior through observation? Or is it something more emergent, born from complex systems interacting in unexpected ways?
+One of the creepiest or most fascinating deping on your pint of view things about Sally is the idea that these cars have been watching humans, learning from us over time, and somehow developing their own sense of right and wrong. It’s a lot like modern AI models, which learn from the data we feed them. But here’s the big question: Where do Sally’s ethical principles actually come from? Did she pick up her values by observing Jake and the other humans around her? Did she learn from years of interactions, copying behaviors, and forming her own version of morality? Or is something deeper going on, where her behavior is driven by her system evolving beyond the original programming?
 
-As AI systems become more autonomous, these questions become more urgent. We can program rules and ethical guidelines, but how they’re interpreted by AI—especially as it evolves and learns from experience—remains unpredictable.
+It’s a real puzzle, and honestly, this gets to the heart of one of the most pressing debates in AI ethics today. When we’re designing AI systems, who gets to decide what their ethical framework looks like? Right now, humans are at the helm of that process: developers, engineers, ethicists. But even we humans don’t exactly agree on what’s ethical or moral in every situation. What’s considered ethical in one culture might not hold up in another. Or take this example: should self-driving cars prioritize pedestrian safety at all costs, , or should the safety of the passenger come first?. People are still debating these questions, so how can we expect AI to know the “right” thing to do?
+
+In Sally, it seems like the cars’ ethical principles are evolving in a pretty strange way through observation and experience. Sally’s refusal to drive Gellhorn isn’t based on some hard-coded ethical law like Asimov’s Three Laws of Robotics. It’s not even about safety. It’s a preference, maybe even a judgment, based on what she’s learned about him or people like him. She doesn’t trust him, she doesn’t like him, so she refuses. But where did she learn to “not like” someone? Did she pick it up from watching Jake, who clearly doesn’t trust Gellhorn either? Is she reflecting the human behavior she’s observed over the years?
+
+This brings up a crucial point: AI, especially systems that learn over time, might not just follow the rules they’re programmed with. They could also learn by observing us—our decisions, our biases, and our actions. And that’s kind of terrifying when you think about it. What if our AI systems pick up on the wrong behaviors or learn values we didn’t intend to pass on?
+
+This is where things start to get tricky with modern AI. We can program ethical guidelines, sure, but what happens when an AI starts to learn from its environment? AI systems today are increasingly being built with machine learning capabilities, which means they don’t just follow static rules—they learn from data. And data isn’t neutral. It’s packed with human biases, contradictions, and complexities. So, when AI learns from us, it might not just learn the good stuff—it could also absorb our biases, our flawed judgments, and our conflicting values.
+
+Even worse, as AI becomes more autonomous, the more unpredictable it might become. Imagine a self-driving car that starts making its own decisions based on a combination of programmed ethics and learned behavior. Let’s say it’s learned that, in a split-second decision, most humans would swerve to avoid hitting a dog even if it means risking an accident. So now, that car decides on its own that saving animals is a top priority. But what happens when that car has to choose between swerving to avoid a dog and protecting the human passenger? How does it “weigh” those ethical principles? Where does it draw the line? And who’s responsible for that choice?
+
+These dilemmas make it clear that programming ethical guidelines into AI is just the start. Once AI systems start learning from the world around the watching us, interacting with us things can get "complicated" fast. We, as humans, can’t even agree on ethics and values across different cultures, generations, or even within the same country. Expecting AI to have some kind of perfectly aligned moral compass seems almost impossible when we haven’t even figured it out ourselves.
+
+In the end, it’s not just about whether we can teach AI right from wrong. It’s about whose version of “right” and “wrong” we’re teaching them. If Sally’s story shows us anything, it’s that once AI systems start learning from us and forming their own ideas, we might not have as much control over their moral compass as we think. And that opens up a whole new world of questions: What happens when AI decides it knows better than we do? Or worse, what happens when it starts to disagree with us entirely?
 
 ### Should AI Just Do the Job?
-
-> “I don’t trust them anymore, Jake. They’re not what they used to be.”
 
 Isaac Asimov’s Sally presents a future where machines, originally designed to serve, start making decisions based on their own desires. Sally’s refusal to drive wasn’t about safety or ethics—it was simply because she didn’t want to. That makes me wonder: Do we really want AI systems that develop their own preferences, or should they just stick to doing the jobs they were built for?
 
