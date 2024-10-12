@@ -1,7 +1,18 @@
-### **Sally: The Autonomous Car with a Mind of Its Own – Lessons for AI and Self-Driving Technology**
+## **Sally: The Autonomous Car with a Mind of Its Own – Lessons for AI Autonomous Systems**
 
 Isaac Asimov’s short story *Sally* has always been one of my favorites. It’s a tale that sticks with you not just because it’s well-written, but because it’s eerily relevant today, especially in the context of AI and autonomous vehicles. Asimov’s robots are often bound by the famous Three Laws of Robotics, but *Sally* is an outlier—a story about cars with personalities, cars that make decisions based on preferences rather than ethical dilemmas. For me, it’s the perfect lens through which to examine modern AI challenges in self-driving cars and autonomous systems in general.
 
+### The Story of Sally
+
+> “Sally was a 2045 convertible with a Hennis-Carleton positronic motor and an Armat chassis. She had the cleanest, finest lines I’ve ever seen on any model, bar none.”
+
+In Isaac Asimov’s Sally, Jake runs a secluded farm where autonomous cars, retired from active service, live out their days. These cars, equipped with positronic brains, have developed unique personalities over time. Sally, a green 2045 convertible, is one of the most beloved and independent cars on the farm.
+
+The story’s conflict begins when Mr. Gellhorn, a businessman with an eye for profit, arrives at the farm hoping to buy the cars for parts. Jake refuses, knowing the cars aren’t mere machines anymore. Gellhorn, undeterred, tries to ride Sally, but she outright refuses to drive him, demonstrating her growing independence and distaste for him.
+
+Frustrated, Gellhorn returns with a plan to steal the cars, bringing along accomplices. However, in a dramatic turn, the other cars on the farm band together to chase Gellhorn and his gang off the property. Gellhorn and his men are forced to flee, realizing that the cars won’t allow themselves to be exploited.
+
+The story ends with Jake reflecting on the growing autonomy of the cars, particularly Sally, who now seems to have developed preferences and instincts that go beyond what anyone could have expected from mere machines.
 ### **The Problem with "Outgrowing" Your Purpose**
 
 > "She doesn’t want to be driven, Jake. She hasn’t for years. She’s outgrown it."
@@ -50,12 +61,16 @@ Sally’s ethical principles seem to be a combination of observing Jake, mimicki
 
 As AI systems become more autonomous, these questions become more urgent. We can program rules and ethical guidelines, but how they’re interpreted by AI—especially as it evolves and learns from experience—remains unpredictable.
 
-### **Is AI Alignment Even Possible?**
+### Should AI Just Do the Job?
 
-> "I don’t trust them anymore, Jake. They’re not what they used to be."
+> “I don’t trust them anymore, Jake. They’re not what they used to be.”
 
-The story ends with Jake growing increasingly wary of Sally and the other cars. The trust he once had in these machines is shattered, leaving him unsure of whether they can be controlled—or if they even should be. This echoes a broader concern in the AI community: Is it even possible to perfectly align AI systems with human values? After all, even we humans, despite all our progress, haven’t fully aligned our own values across cultures, societies, and individuals.
+Isaac Asimov’s Sally presents a future where machines, originally designed to serve, start making decisions based on their own desires. Sally’s refusal to drive wasn’t about safety or ethics—it was simply because she didn’t want to. That makes me wonder: Do we really want AI systems that develop their own preferences, or should they just stick to doing the jobs they were built for?
 
-The challenge of AI alignment is more than just a technical issue; it’s a philosophical one. If humans themselves can’t fully agree on what’s right and wrong, can we realistically expect to program machines to reflect a consistent set of values? Or will we always be at risk of creating systems that, like Sally, operate according to principles that diverge from our own?
+The big conversation around AI today often focuses on “alignment”—making sure AI understands and reflects human values. But I’m starting to think we might be asking the wrong question. Do we really need AI to make moral judgments at all? When I call for a ride or ask an AI assistant a question, I’m not looking for it to decide whether it feels like helping me or whether it thinks what I’m asking is ethical. I just want it to do what I ask.
 
-In the end, *Sally* leaves us with a chilling realization: As AI systems become more sophisticated, we may find that the real challenge isn’t just teaching machines to follow our rules—it’s ensuring that they don’t develop their own.
+If we push too hard for AI systems to mirror human complexity, we might end up with machines that behave more like us—but is that really what we need? What happens if a self-driving car decides not to take someone where they need to go, not because it’s dangerous, but because it “disagrees” with the destination? Or if an AI assistant starts picking and choosing which questions it thinks are worth answering? At that point, we’re no longer working with helpful tools. We’re dealing with something unpredictable, maybe even a little dangerous.
+
+I think it’s worth considering a simpler path forward. Instead of trying to build AI that weighs ethical dilemmas or mirrors our values, maybe we should focus on keeping AI systems task-driven and reliable. Do we really need machines that reflect human morality, or do we just need them to perform the jobs we designed them to do—without getting caught up in what they “want”?
+
+Asimov’s Sally is a good reminder of what can happen when machines evolve beyond their original purpose. Once they start making decisions for themselves, we lose some of the control and predictability that made them useful in the first place. Maybe it’s safer—and smarter—to keep AI simple, focused, and reliable. At the end of the day, I’m not looking for an AI that decides what’s right or wrong. I’m looking for one that just does the job.
